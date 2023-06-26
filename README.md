@@ -1,2 +1,2 @@
 # calendar
-A little calendar written in Flutter
+A little calendar written in Dart for Flutter
