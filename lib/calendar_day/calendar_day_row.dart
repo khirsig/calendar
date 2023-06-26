@@ -3,6 +3,7 @@ import 'package:flutter/material.dart';
 import 'package:calendar/calendar_day/calendar_day.dart';
 import 'package:calendar/models/workshop.dart';
 
+// Row of CalendarDay widgets
 class CalendarDayRow extends StatelessWidget {
   const CalendarDayRow({
     super.key,

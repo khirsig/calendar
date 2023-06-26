@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 
 import 'package:calendar/calendar_workshop/calendar_workshop_label.dart';
 
+// Shows info of selected planned workshop
 class CalendarDayInfoWorkshops extends StatelessWidget {
   const CalendarDayInfoWorkshops(
       {super.key,

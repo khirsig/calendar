@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 
+// A small label with pickable color
 class CalendarWorkshopLabel extends StatelessWidget {
   const CalendarWorkshopLabel({
     super.key,

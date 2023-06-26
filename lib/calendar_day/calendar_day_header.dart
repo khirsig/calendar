@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 
 import 'package:calendar/calendar_day/calendar_day_header_text.dart';
 
+// Shows each day on top of the calendar month view
 class CalendarDayHeader extends StatelessWidget {
   const CalendarDayHeader({super.key});
 

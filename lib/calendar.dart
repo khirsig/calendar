@@ -42,7 +42,6 @@ class _CalendarState extends State<Calendar> {
     return dates;
   }
 
-  // Advances to next month
   void _nextMonth() {
     setState(() {
       var nextMonth = _currentMonth.month + 1;
@@ -56,7 +55,6 @@ class _CalendarState extends State<Calendar> {
     });
   }
 
-  // Goes back to previous month
   void _previousMonth() {
     setState(() {
       var previousMonth = _currentMonth.month - 1;

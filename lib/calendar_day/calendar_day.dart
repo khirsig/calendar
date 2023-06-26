@@ -3,6 +3,8 @@ import 'package:flutter/material.dart';
 import 'package:calendar/models/workshop.dart';
 import 'package:calendar/calendar_workshop/calendar_workshop_label.dart';
 
+// Widget for a calendar day as clickable button that displays the day number
+// and the workshop labels for that day
 class CalendarDay extends StatelessWidget {
   const CalendarDay({
     super.key,

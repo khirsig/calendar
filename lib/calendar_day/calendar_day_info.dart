@@ -5,6 +5,7 @@ import 'package:calendar/models/workshop.dart';
 import 'package:calendar/calendar_day/calendar_day_info_workshops.dart';
 import 'package:calendar/data/time_conversion.dart';
 
+// Shows info of all workshops happening on the selected day
 class CalendarDayInfo extends StatelessWidget {
   const CalendarDayInfo(
       {super.key,

@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 
 import 'package:calendar/data/month_conversion.dart';
 
+// A Next and Previous month button and the current month displayed in an appBar
 class CalendarDateHeader extends StatelessWidget {
   const CalendarDateHeader(
       {super.key,
