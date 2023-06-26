@@ -1,7 +1,6 @@
 # Flutter Workshop Calendar
 
 This repository contains my first app build in Flutter with Dart, which I was asked to do for an internship application.
-I never worked with neither Flutter or Dart before, so this was quite exciting to do.
 
 ## Description
 
